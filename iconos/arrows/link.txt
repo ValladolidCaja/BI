@@ -1,0 +1,1 @@
+En Raw viene el link, unicamente cambia el nombre de link.txt por el nombre de la imagen que quieres usar
