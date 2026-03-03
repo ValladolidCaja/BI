@@ -20,4 +20,4 @@ Su finalidad es permitir el consumo directo desde herramientas como Power BI med
 
 ## Uso
 
-Las imágenes deben consumirse mediante su URL directa (raw.githubusercontent.com) y configurarse como `Image URL` dentro del modelo de datos en Power BI.
+Las imágenes deben consumirse mediante su URL directa (https://raw.githubusercontent.com/ValladolidCaja/BI/) y configurarse como `Image URL` dentro del modelo de datos en Power BI.
